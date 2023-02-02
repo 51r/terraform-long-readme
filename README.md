@@ -1,4 +1,4 @@
-# This repo contains Terraform Repo to reproduce an issue with TFC
+# This repo contains Terraform code to reproduce an issue with TFC.
 
 Hashi
 Hashi
